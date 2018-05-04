@@ -5,3 +5,4 @@
 ## User Cases
 * Communicates "Hello world!" to users.
 * Communicates "Hello" and the user's name.
+* Communicates "¡Hola mundo!" to users for Spanish greeting.
